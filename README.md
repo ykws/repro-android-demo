@@ -1,5 +1,5 @@
 # repro-android-demo
-Integrate [Repro](https://repro.io/jp/) SDK on Android
+Integrate [Repro Android SDK](https://github.com/reproio/repro-android-sdk)
 
 ## Set up
 
