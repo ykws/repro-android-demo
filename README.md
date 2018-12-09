@@ -11,5 +11,14 @@ $ launchctl setenv REPRO_DEMO_API_KEY {Repro_API_Token}
 
 If Android Studio launched, you must restart it, because cannot load environment variable!
 
+### Troubleshooting
+
+Show environment variable.
+
+```
+$ launchctl getenv REPRO_DEMO_API_KEY
+{Repro_API_Token}
+```
+
 ## More information
 [Development Guide](https://docs.repro.io/en/dev/sdk/getstarted/android.html)
